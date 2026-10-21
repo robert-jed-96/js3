@@ -23,5 +23,5 @@ function isValidPassword(password, username) {
 }
 console.log(isValidPassword("robert jed"));
 console.log(isValidPassword("bR4!."));
-console.log(isValidPassword("robert"));
+console.log(isValidPassword("robert.jed"));
 console.log(isValidPassword("r06<R+J`d"));
